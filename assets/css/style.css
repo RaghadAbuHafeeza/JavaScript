@@ -1,0 +1,588 @@
+body{
+    background-color:blueviolet;
+}
+.container{
+    margin: 20px 150px;
+}
+.Question .para{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 150px;
+    background-color: antiquewhite;
+    border-radius: 100px;
+    padding: 20px;
+    position: relative;
+}
+.Question .para:hover{
+    font-size: 60px;
+    padding: 20px;
+    background-color: #d7f9fa;
+}
+.Question #icon1{
+    background-color:  rgb(211, 158, 88);
+    font-size: 40px;
+    border-radius: 80%;
+    padding: 10px 20px;
+    position: absolute;
+    margin-top: -190px;
+    margin-left: 950px;
+}
+.Question #icon2{
+    background-color: burlywood;
+    font-size: 30px;
+    border-radius: 80%;
+    padding: 10px 20px;
+    position: absolute;
+    margin-top: -170px;
+    margin-left: 920px;
+}
+.Q1{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-right: 100px; 
+}
+.Question .subitem1{
+    position: relative;
+}
+.Q1:hover{
+    background-color: #62dd8b;
+}
+#demo{          
+    color: black;
+    padding: 10px;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    margin-left: -60px;
+    margin-top: 40px;
+}
+.Q2{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-left: 50px;
+}
+.Question .subitem2{
+    position: relative;
+}
+.Q2:hover{
+    background-color: #62dd8b;
+}
+#demo1{              
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 992px;
+    margin-top: 40px;
+}                                 
+.Q3{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: -10px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-right: 100px;
+}
+/*****/
+.Question .subitem3{
+    position: relative;
+}
+.Q3:hover{
+    background-color: #62dd8b;
+}
+#demo2{          
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: -60px;
+    margin-top: 195px;
+}
+.Q4{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-left: 50px;
+}
+/******/
+.Question .subitem4{
+    position: relative;
+}
+.Q4:hover{
+    background-color: #62dd8b;
+}
+#demo3{          
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 995px;
+    margin-top: 220px;
+}
+.Q5{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: -70px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-right: 100px;
+}
+/*******/
+.Question .subitem5{
+    position: relative;
+}
+.Q5:hover{
+    background-color: #62dd8b;
+}
+#demo4{ 
+    background-color: blueviolet;         
+    color: black;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: -165px;
+    margin-top: 350px;
+}
+#demo5{
+    background-color: blueviolet;         
+    color: black;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: -160px;
+    margin-top: 396px;
+}
+.Q6{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-left: 50px;
+}
+/*****/
+.Question .subitem6{
+    position: relative;
+}
+.Q6:hover{
+    background-color: #62dd8b;
+}
+#demo6{          
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 999px;
+    margin-top: 432px;
+}
+.Q7{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: -50px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-right: 100px;
+}
+/****/
+.Question .subitem7{
+    position: relative;
+}
+.Q7:hover{
+    background-color: #62dd8b;
+}
+#demo7{          
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: -150px;
+    margin-top: 547px;
+}
+.Q8{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: 10px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-left: 50px;
+}
+/********/
+.Question .subitem8{
+    position: relative;
+}
+.Q8:hover{
+    background-color: #62dd8b;
+}
+#demo8{          
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 999px;
+    margin-top: 610px;
+}
+.Q9{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: 22px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-left: 0;
+}
+/*******/
+.Question .subitem9{
+    position: relative;
+}
+.Q9:hover{
+    background-color: #62dd8b;
+}
+#demo9{          
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: -157.5px;
+    margin-top: 739px;
+}
+.Q10{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-left: 150px;
+}
+/********/
+.Question .subitem10{
+    position: relative;
+}
+.Q10:hover{
+    background-color: #62dd8b;
+}
+#demo10{          
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 999px;
+    margin-top: 770px;
+}
+/*********************************************************/
+.Q11{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: 10px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-left: 0;
+}
+.Question .subitem11{
+    position: relative;
+}
+.Q11:hover{
+    background-color: #62dd8b;
+}
+#demo11{       
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: -71px;
+    margin-top: 990px;
+}
+/*****************************************************/
+.Q12{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-left: 150px;
+}
+.Question .subitem12{
+    position: relative;
+}
+.Q12:hover{
+    background-color: #62dd8b;
+}
+#demo12{          
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 986px;
+    margin-top: 966px;
+}
+#demo13{          
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 1073px;
+    margin-top: 966px;
+}
+#demo14{          
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 983px;
+    margin-top: 1081px;
+}
+/******************************************************/
+.Q13{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: 0;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-right: 100px;
+}
+.Question .subitem13{
+    position: relative;
+}
+.Q13:hover{
+    background-color: #62dd8b;
+}
+#demo15{  
+    background-color:blueviolet;       
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: -158px;
+    margin-top: 1249px;
+}
+/***********************************************************/
+.Q14{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-left: 50px;
+}
+.Question .subitem14{
+    position: relative;
+}
+.Q14:hover{
+    background-color: #62dd8b;
+}
+#demo16{          
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 999px;
+    margin-top: 1176px;
+}
+/***************************************************************/
+.Q15{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: -15px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-right: 100px;
+}
+.Question .subitem15{
+    position: relative;
+}
+.Q15:hover{
+    background-color: #62dd8b;
+}
+#demo17{       
+    background-color:blueviolet;   
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: -154px;
+    margin-top: 1382px;
+}
+/***********************************************************/
+.Q16{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-left: 50px;
+}
+.Question .subitem16{
+    position: relative;
+}
+.Q16:hover{
+    background-color: #62dd8b;
+}
+#demo18{          
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 999px;
+    margin-top: 1386px;
+}
+/***********************************************************/
+.Q17{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: 0;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-right: 100px;
+}
+.Question .subitem17{
+    position: relative;
+}
+.Q17:hover{
+    background-color: #62dd8b;
+}
+#demo19{ 
+    background-color:blueviolet;         
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: -154px;
+    margin-top: 1539px;
+}
+/**********************************************************/
+.Q18{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-left: 50px;
+}
+.Question .subitem18{
+    position: relative;
+}
+.Q18:hover{
+    background-color: #62dd8b;
+}
+#demo20{          
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 999px;
+    margin-top: 1537px;
+}
+/*********************************************************/
+.Q19{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: 12px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+.Question .subitem19{
+    position: relative;
+}
+.Q19:hover{
+    background-color: #62dd8b;
+}
+#demo21{          
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: -136px;
+    margin-top: 1690px;
+}
+/***********************************************************/
+.Q20{
+    float:left;
+    width:40%;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin-left: 50px;
+}
+.Question .subitem20{
+    position: relative;
+}
+.Q20:hover{
+    background-color: #62dd8b;
+}
+#demo22{          
+    color: black;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 999px;
+    margin-top: 1679px;
+}
+/**********************************************************************************************/

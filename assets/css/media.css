@@ -1,0 +1,489 @@
+@media (max-width: 576px){
+.container{
+    margin: 10px 30px;
+}
+.Question #icon1{
+    margin-top: -180px;
+    margin-left: 350px;
+    font-size: 30px;
+}
+.Question #icon2{
+    margin-top: -160px;
+    margin-left: 320px;
+    font-size: 20px;
+}
+.Question p{
+    font-size: 40px;
+    border-radius: 20px;
+}
+.Question p:hover{
+    font-size: 45px;
+    padding: 10px;
+}
+.Q1{
+    float:none;
+    width:100%;
+    margin-top: 20px;
+}
+.Q2{
+    float:none;
+    width:100%;
+    margin-top: 20px;
+    margin-left: 0;
+}
+.Q3{
+    float:none;
+    width:100%;
+    margin-top: 20px;
+}
+.Q4{
+    float:none;
+    width:100%;
+    margin-left: 0;
+}
+.Q5{
+    float:none;
+    width:100%;
+    margin-top: 20px;
+}
+.Q6{
+    float:none;
+    width:100%;
+    margin-left: 0;
+}
+.Q7{
+    float:none;
+    width:100%;
+    margin-top: 20px;
+}
+.Q8{
+    float:none;
+    width:100%;
+    margin-left: 0
+}
+.Q9{
+    float:none;
+    width:100%;
+    margin-top: 22px;
+}
+.Q10{
+    float:none;
+    width:100%;
+    margin-left: 0
+}
+.Q11{
+    float:none;
+    width:100%;
+    margin-top: 22px;
+}
+.Q12{
+    float:none;
+    width:100%;
+    margin-left: 0
+}
+.Q13{
+    float:none;
+    width:100%;
+    margin-top: 20px;
+}
+.Q14{
+    float:none;
+    width:100%;
+    margin-left: 0
+}
+.Q15{
+    float:none;
+    width:100%;
+    margin-top: 20px;
+}
+.Q16{
+    float:none;
+    width:100%;
+    margin-left: 0
+}
+.Q17{
+    float:none;
+    width:100%;
+    margin-top: 20px;
+}
+.Q18{
+    float:none;
+    width:100%;
+    margin-left: 0
+}
+.Q19{
+    float:none;
+    width:100%;
+    margin-top: 20px;
+}
+.Q20{
+    float:none;
+    width:100%;
+    margin-left: 0;
+    margin-top: -20px;
+}
+}
+/******************************************************************/
+@media (min-width: 577px) and (max-width: 768px){
+    .container{
+        margin: 10px 30px;
+    }
+    .Question #icon1{
+        margin-top: -180px;
+        margin-left: 550px;
+        font-size: 30px;
+    }
+    .Question #icon2{
+        margin-top: -160px;
+        margin-left: 520px;
+        font-size: 20px;
+    }
+    .Question p{
+        font-size: 40px;
+        border-radius: 20px;
+    }
+    .Question p:hover{
+        font-size: 50px;
+    }
+    .Q1{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+    }
+    .Q2{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+        margin-left: 0;
+    }
+    .Q3{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+    }
+    .Q4{
+        float:none;
+        width:100%;
+        margin-left: 0;
+    }
+    .Q5{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+    }
+    .Q6{
+        float:none;
+        width:100%;
+        margin-left: 0;
+    }
+    .Q7{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+    }
+    .Q8{
+        float:none;
+        width:100%;
+        margin-left: 0
+    }
+    .Q9{
+        float:none;
+        width:100%;
+        margin-top: 22px;
+    }
+    .Q10{
+        float:none;
+        width:100%;
+        margin-left: 0
+    }
+    .Q11{
+        float:none;
+        width:100%;
+        margin-top: 22px;
+    }
+    .Q12{
+        float:none;
+        width:100%;
+        margin-left: 0
+    }
+    .Q13{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+    }
+    .Q14{
+        float:none;
+        width:100%;
+        margin-left: 0
+    }
+    .Q15{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+    }
+    .Q16{
+        float:none;
+        width:100%;
+        margin-left: 0
+    }
+    .Q17{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+    }
+    .Q18{
+        float:none;
+        width:100%;
+        margin-left: 0
+    }
+    .Q19{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+    }
+    .Q20{
+        float:none;
+        width:100%;
+        margin-left: 0;
+        margin-top: -20px;
+    }
+}
+/***************************************************/
+@media (min-width: 769px) and (max-width: 992px){
+    .container{
+        margin: 10px 30px;
+    }
+    .Question #icon1{
+        margin-top: -190px;
+        margin-left: 750px;
+    }
+    .Question #icon2{
+        margin-top: -170px;
+        margin-left: 720px;
+    }
+    .Question p{
+        font-size: 40px;
+        border-radius: 20px;
+    }
+    .Question p:hover{
+        font-size: 50px;
+    }
+    .Q1{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+    }
+    .Q2{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+        margin-left: 0;
+    }
+    .Q3{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+    }
+    .Q4{
+        float:none;
+        width:100%;
+        margin-left: 0;
+    }
+    .Q5{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+    }
+    .Q6{
+        float:none;
+        width:100%;
+        margin-left: 0;
+    }
+    .Q7{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+    }
+    .Q8{
+        float:none;
+        width:100%;
+        margin-left: 0
+    }
+    .Q9{
+        float:none;
+        width:100%;
+        margin-top: 22px;
+    }
+    .Q10{
+        float:none;
+        width:100%;
+        margin-left: 0
+    }
+    .Q11{
+        float:none;
+        width:100%;
+        margin-top: 22px;
+    }
+    .Q12{
+        float:none;
+        width:100%;
+        margin-left: 0
+    }
+    .Q13{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+    }
+    .Q14{
+        float:none;
+        width:100%;
+        margin-left: 0
+    }
+    .Q15{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+    }
+    .Q16{
+        float:none;
+        width:100%;
+        margin-left: 0
+    }
+    .Q17{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+    }
+    .Q18{
+        float:none;
+        width:100%;
+        margin-left: 0
+    }
+    .Q19{
+        float:none;
+        width:100%;
+        margin-top: 20px;
+    }
+    .Q20{
+        float:none;
+        width:100%;
+        margin-left: 0;
+        margin-top: -20px;
+    }
+}
+/*******************************************************/
+@media (min-width: 1000px) and (max-width: 1300px){
+    .container{
+        margin: 10px 30px;
+    }
+    .Question p{
+        font-size: 40px;
+        border-radius: 20px;
+    }
+    .Question p:hover{
+        font-size: 50px;
+    }
+    .Q1{
+        float:left;
+        width:40%;
+    }
+    .Q2{
+        float:left;
+        width:40%;
+        margin-left: 0;
+    }
+    .Q3{
+        float:left;
+        width:40%;
+        margin-top: -10px;
+    }
+    .Q4{
+        float:left;
+        width:40%;
+        margin-left: 0;
+    }
+    .Q5{
+        float:left;
+        width:40%;
+        margin-top: -70px;
+    }
+    .Q6{
+        float:left;
+        width:40%;
+        margin-left: 0;
+    }
+    .Q7{
+        float:left;
+        width:40%;
+        margin-top: -60px;
+    }
+    .Q8{
+        float:left;
+        width:40%;
+        margin-left: 0
+    }
+    .Q9{
+        float:left;
+        width:40%;
+        margin-top: -10px;
+    }
+    .Q10{
+        float:left;
+        width:40%;
+        margin-left: 100px;
+        margin-top: 20px;
+    }
+    .Q11{
+        float:left;
+        width:40%;
+        margin-top: -25px;
+    }
+    .Q12{
+        float:left;
+        width:40%;
+        margin-left: 100px;
+        margin-top: 10px;
+    }
+    .Q13{
+        float:left;
+        width:40%;
+        margin-top: -25px;
+    }
+    .Q14{
+        float:left;
+        width:40%;
+        margin-left: 0
+    }
+    .Q15{
+        float:left;
+        width:40%;
+        margin-top: -45px;
+    }
+    .Q16{
+        float:left;
+        width:40%;
+        margin-left: 0
+    }
+    .Q17{
+        float:left;
+        width:40%;
+        margin-top: -30px;
+    }
+    .Q18{
+        float:left;
+        width:40%;;
+        margin-left: 0
+    }
+    .Q19{
+        float:left;
+        width:40%;
+        margin-top: -10px;
+    }
+    .Q20{
+        float:left;
+        width:40%;
+        margin-left: 0;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+}
